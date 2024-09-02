@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "119220809206",
+    "project_id": "rayan-store-28b24",
+    "storage_bucket": "rayan-store-28b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119220809206:android:79bc0f1fea4d3daf1aabd7",
+        "android_client_info": {
+          "package_name": "com.rayan.rayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119220809206-gp2bbhecdu826pvakocl3jlarqv8f5sa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rayan.rayan",
+            "certificate_hash": "9a5c6fba5da259d95dbfe3b76265e7b75f985109"
+          }
+        },
+        {
+          "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSNWjwz23MAziz1ChXVAmafu2zoTeh2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119220809206-0blmjnn3ehtlh9tt22g4dnbgsffgdufg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rayanStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119220809206:android:b3b5b061401a6d431aabd7",
+        "android_client_info": {
+          "package_name": "com.rayan.rayan_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119220809206-un4ug1dqat5kpj8qtgmstp34592a9v8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rayan.rayan_store",
+            "certificate_hash": "9a5c6fba5da259d95dbfe3b76265e7b75f985109"
+          }
+        },
+        {
+          "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSNWjwz23MAziz1ChXVAmafu2zoTeh2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119220809206-0blmjnn3ehtlh9tt22g4dnbgsffgdufg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rayanStore"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119220809206:android:e330224a020d72851aabd7",
+        "android_client_info": {
+          "package_name": "com.rayan_rayan_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119220809206-orcr9hsqj0gppikhism3o02h8frq2dlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rayan_rayan_store",
+            "certificate_hash": "9a5c6fba5da259d95dbfe3b76265e7b75f985109"
+          }
+        },
+        {
+          "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABSNWjwz23MAziz1ChXVAmafu2zoTeh2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119220809206-fe6d5aptq8di9aloml4q69jdn83ud4tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119220809206-0blmjnn3ehtlh9tt22g4dnbgsffgdufg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rayanStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
